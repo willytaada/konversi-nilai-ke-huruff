@@ -37,7 +37,7 @@ int main(){
 }
 void petunjuk()
 {
-cout << "Nama	: Willyta Asmara Dia Abadi\n";
+cout << "Nama	: Willyta Asmara Diya Abadi\n";
 cout << "Nim	: 19051397017\n";
 cout << "Prodi	: D4 Manajemen Informatika\n";
 cout << "-------|Universitas Negeri Surabaya|-------\n";
